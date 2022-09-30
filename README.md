@@ -32,3 +32,7 @@ SCDVのアルゴリズムは、以下の通り。
 
 ## Run Code
 
+## 参考
+<https://qiita.com/fufufukakaka/items/a7316273908a7c400868#確率重み付け単語ベクトルを求める単語ベクトル空間を可視化>
+
+<https://qiita.com/nishiba/items/40449df6c931cca38abe>
